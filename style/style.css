@@ -4,4 +4,47 @@
 PALETA DE CORES
 VERDE: #49a09d
 LILÁS: #5f2c52
- */
+*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #5f2c52;
+}
+
+#login {
+    width: fit-content;
+    background-color: white;
+    margin: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#login img {
+    width: 100%;
+    border-radius: 20px 20px 0px 0px;
+}
+
+#login p {
+    text-align: left;
+}
+
+#formulario {
+    padding: 20px;
+}
+
+.caixa {
+    background-color: #5f2c52;
+    color: white;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#iemail, #isenha {
+    background-color: rgb(122, 193, 193);
+}
