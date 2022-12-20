@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+/* estilos para telas maiores */
+
+#imagem {
+    display: inline-block;
+}
+
+#formulario {
+    display:inline-block
+}
