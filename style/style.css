@@ -67,6 +67,7 @@ section {
     margin: 10px 0px;
     border-radius: 10px;
     width: 100%;
+    border: 1px solid #5D3284 ;
 }
 
 #iemail, #isenha {
@@ -76,6 +77,8 @@ section {
     border-radius: 10px;
     height: 100%;
     width: 80%;
+    
+    transform: translateY(-1px);
 }
 
 #entrar {
