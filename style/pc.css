@@ -10,13 +10,22 @@ body {
 #login {
     min-width: 700px;
     max-width: 1000px;
+    height: 50%;
 }
 
 #imagem {
-    width: 500px;
+    width: 34%;
     border-radius: 0px 20px 20px 0px;
+    float: right;
+    background-position: left center;
+    height: 100%;
+}
+
+#formulario {
+    float: left;
+    width: 60%;
 }
 
 #iemail, #isenha {
-    width: 80%;
+    width: 87%;
 }
