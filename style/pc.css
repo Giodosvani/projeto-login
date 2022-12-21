@@ -8,14 +8,13 @@ body {
 }
 
 #login {
-    min-width: 400px;
+    min-width: 700px;
     max-width: 1000px;
-    display: flex;
 }
 
 #imagem {
     width: 500px;
-    border-radius: 20px 0px 0px 20px;;
+    border-radius: 0px 20px 20px 0px;
 }
 
 #iemail, #isenha {
